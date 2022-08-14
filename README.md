@@ -2,6 +2,7 @@
 
 Cost Function for the linear regression to minimize:
 ![image](https://user-images.githubusercontent.com/63281063/184524885-1435ff44-3cfa-405c-a69f-27a26995ac6a.png)
+
 y^(i) is the ith training example of the profit.
 hθ(x^(i)) is the models true estimate of the profit.
 m is the length of the data.
