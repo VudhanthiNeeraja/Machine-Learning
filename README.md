@@ -1,4 +1,7 @@
 # Machine-Learning
+
+This is notes from the CourseEra guided project I've done. Please do check the other word document for additional notes and links on Linear Regression and Gradient Descent.
+
 ## COST FUNCTION:
 
 Cost Function for the linear regression to minimize:
