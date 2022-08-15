@@ -1,4 +1,5 @@
 # Machine-Learning
+## COST FUNCTION:
 
 Cost Function for the linear regression to minimize:
 ![image](https://user-images.githubusercontent.com/63281063/184524885-1435ff44-3cfa-405c-a69f-27a26995ac6a.png)
