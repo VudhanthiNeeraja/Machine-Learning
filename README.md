@@ -2,6 +2,8 @@
 
 This is notes from the CourseEra guided project I've done. Please do check the other word document for additional notes and links on Linear Regression and Gradient Descent.
 
+You can take a look at the CourseEra course at: https://www.coursera.org/learn/linear-regression-numpy-python
+
 ## COST FUNCTION:
 
 Cost Function for the linear regression to minimize:
