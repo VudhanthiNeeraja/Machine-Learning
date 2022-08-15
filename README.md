@@ -20,3 +20,6 @@ Here x and y are not scalar variables but the matrices which have the population
 
 Here hθ(x) is the hypothesis and given by the Linear model is:
 ![image](https://user-images.githubusercontent.com/63281063/184524912-2083bc1e-b038-4049-b16e-55ed4cff04a0.png)
+
+
+Check out notes on Gradient Descent at: https://www.analyticsvidhya.com/blog/2021/04/gradient-descent-in-linear-regression/#:~:text=Gradient%20Descent%20is%20an%20algorithm,a%20smaller%20number%20of%20iterations.&text=For%20some%20combination%20of%20m,us%20our%20best%20fit%20line.
